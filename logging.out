@@ -1,0 +1,530 @@
+[2019-03-11 11:02:51,676] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 11:03:25,132] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 11:03:25,132] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 19:50:40,130] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 19:51:50,152] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 19:53:28,301] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 19:57:08,670] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 19:58:39,503] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:14:12,065] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:14:29,597] [itemcf_Kye_(changeFileTypeToPkl).py][line:190][func: calc_item_sim_cos] - [ERROR] : item_popular[m1]:{'sum': 0, 'avg': 0}
+[2019-03-11 20:24:05,881] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:25:55,656] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:28:00,144] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:30:13,735] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:32:37,318] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:33:28,174] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:33:28,687] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:33:28,687] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:34:32,323] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:34:32,776] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:34:32,776] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:36:34,930] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:36:35,375] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:36:35,375] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:38:30,764] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:38:31,225] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:38:31,225] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:363][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:364][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:365][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:366][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:368][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:369][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 20:38:48,729] [itemcf_Kye_(changeFileTypeToPkl).py][line:370][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 20:38:48,730] [itemcf_Kye_(changeFileTypeToPkl).py][line:371][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 20:42:10,542] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:42:10,998] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:42:10,999] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:42:28,595] [itemcf_Kye_(changeFileTypeToPkl).py][line:363][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 20:42:28,595] [itemcf_Kye_(changeFileTypeToPkl).py][line:364][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 20:42:28,595] [itemcf_Kye_(changeFileTypeToPkl).py][line:365][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 20:42:28,596] [itemcf_Kye_(changeFileTypeToPkl).py][line:366][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 20:42:28,596] [itemcf_Kye_(changeFileTypeToPkl).py][line:368][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 20:42:28,596] [itemcf_Kye_(changeFileTypeToPkl).py][line:369][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 20:42:28,596] [itemcf_Kye_(changeFileTypeToPkl).py][line:370][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 20:42:28,596] [itemcf_Kye_(changeFileTypeToPkl).py][line:371][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 20:43:18,524] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:43:18,973] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:43:18,974] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:363][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:364][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:365][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:366][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:368][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:369][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:370][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 20:43:36,260] [itemcf_Kye_(changeFileTypeToPkl).py][line:371][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 20:48:40,838] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 20:48:41,293] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 20:48:41,293] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:03:28,044] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 21:03:28,520] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:03:28,520] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:03:48,705] [itemcf_Kye_(changeFileTypeToPkl).py][line:374][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 21:03:48,705] [itemcf_Kye_(changeFileTypeToPkl).py][line:375][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 21:03:48,705] [itemcf_Kye_(changeFileTypeToPkl).py][line:376][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 21:03:48,706] [itemcf_Kye_(changeFileTypeToPkl).py][line:377][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 21:03:48,706] [itemcf_Kye_(changeFileTypeToPkl).py][line:379][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 21:03:48,706] [itemcf_Kye_(changeFileTypeToPkl).py][line:380][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 21:03:48,706] [itemcf_Kye_(changeFileTypeToPkl).py][line:381][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 21:03:48,706] [itemcf_Kye_(changeFileTypeToPkl).py][line:382][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 21:05:31,607] [itemcf_Kye_(changeFileTypeToPkl).py][line:500][func: analyse] - [INFO] : [训练集中有的] precision=0.0417	recall=0.1524	coverage=0.9696	popularity=7.1680
+[2019-03-11 21:05:36,638] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:05:36,638] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:13:04,451] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 21:13:04,924] [itemcf_Kye_(changeFileTypeToPkl).py][line:47][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:13:04,924] [itemcf_Kye_(changeFileTypeToPkl).py][line:48][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:13:24,019] [itemcf_Kye_(changeFileTypeToPkl).py][line:375][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 21:13:24,019] [itemcf_Kye_(changeFileTypeToPkl).py][line:376][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 21:13:24,019] [itemcf_Kye_(changeFileTypeToPkl).py][line:377][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 21:13:24,019] [itemcf_Kye_(changeFileTypeToPkl).py][line:378][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 21:13:24,019] [itemcf_Kye_(changeFileTypeToPkl).py][line:380][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 21:13:24,020] [itemcf_Kye_(changeFileTypeToPkl).py][line:381][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 21:13:24,020] [itemcf_Kye_(changeFileTypeToPkl).py][line:382][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 21:13:24,020] [itemcf_Kye_(changeFileTypeToPkl).py][line:383][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 21:16:13,208] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-11 21:16:23,814] [<ipython-input-1-b1fba9205232>][line:39][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:16:23,815] [<ipython-input-1-b1fba9205232>][line:40][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:16:44,008] [<ipython-input-1-b1fba9205232>][line:368][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 21:16:44,008] [<ipython-input-1-b1fba9205232>][line:369][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 21:16:44,008] [<ipython-input-1-b1fba9205232>][line:370][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 21:16:44,009] [<ipython-input-1-b1fba9205232>][line:371][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 21:16:44,009] [<ipython-input-1-b1fba9205232>][line:373][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 21:16:44,009] [<ipython-input-1-b1fba9205232>][line:374][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 21:16:44,009] [<ipython-input-1-b1fba9205232>][line:375][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 21:16:44,009] [<ipython-input-1-b1fba9205232>][line:376][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 21:18:22,586] [<ipython-input-1-b1fba9205232>][line:494][func: analyse] - [INFO] : [训练集中有的] precision=0.0000	recall=0.0000	coverage=0.0000	popularity=0.0000
+[2019-03-11 21:52:52,423] [<ipython-input-4-c6c1d1027392>][line:39][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:52:52,423] [<ipython-input-4-c6c1d1027392>][line:40][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 21:59:48,809] [<ipython-input-9-0f442c34f97a>][line:22][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 21:59:48,809] [<ipython-input-9-0f442c34f97a>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:00:07,240] [<ipython-input-9-0f442c34f97a>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:00:07,241] [<ipython-input-9-0f442c34f97a>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:00:07,241] [<ipython-input-9-0f442c34f97a>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:00:07,241] [<ipython-input-9-0f442c34f97a>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:00:07,241] [<ipython-input-9-0f442c34f97a>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:00:07,241] [<ipython-input-9-0f442c34f97a>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:00:07,242] [<ipython-input-9-0f442c34f97a>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:00:07,242] [<ipython-input-9-0f442c34f97a>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:01:41,214] [<ipython-input-9-0f442c34f97a>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0417	recall=0.1524	coverage=0.9696	popularity=7.1680
+[2019-03-11 22:01:46,423] [<ipython-input-9-0f442c34f97a>][line:22][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 22:01:46,423] [<ipython-input-9-0f442c34f97a>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:02:04,278] [<ipython-input-9-0f442c34f97a>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:02:04,278] [<ipython-input-9-0f442c34f97a>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:02:04,278] [<ipython-input-9-0f442c34f97a>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:02:04,278] [<ipython-input-9-0f442c34f97a>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:02:04,279] [<ipython-input-9-0f442c34f97a>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:02:04,279] [<ipython-input-9-0f442c34f97a>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:02:04,279] [<ipython-input-9-0f442c34f97a>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:02:04,279] [<ipython-input-9-0f442c34f97a>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:03:29,321] [<ipython-input-9-0f442c34f97a>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0000	recall=0.0000	coverage=0.0000	popularity=0.0000
+[2019-03-11 22:06:02,710] [<ipython-input-9-0f442c34f97a>][line:22][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 22:06:02,710] [<ipython-input-9-0f442c34f97a>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:06:20,797] [<ipython-input-9-0f442c34f97a>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:06:20,798] [<ipython-input-9-0f442c34f97a>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:06:20,798] [<ipython-input-9-0f442c34f97a>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:06:20,798] [<ipython-input-9-0f442c34f97a>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:06:20,799] [<ipython-input-9-0f442c34f97a>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:06:20,799] [<ipython-input-9-0f442c34f97a>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:06:20,799] [<ipython-input-9-0f442c34f97a>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:06:20,799] [<ipython-input-9-0f442c34f97a>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:08:00,775] [<ipython-input-9-0f442c34f97a>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0417	recall=0.1524	coverage=0.9696	popularity=7.1680
+[2019-03-11 22:12:35,431] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-11 22:12:35,431] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:12:54,604] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:12:54,604] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:12:54,604] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:12:54,605] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:12:54,605] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:12:54,605] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:12:54,605] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:12:54,606] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:14:35,484] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0386	recall=0.1410	coverage=0.9033	popularity=6.0875
+[2019-03-11 22:14:40,399] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-11 22:14:40,400] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:14:57,873] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:14:57,874] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:14:57,874] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:14:57,875] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:14:57,875] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:14:57,875] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:14:57,875] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:14:57,875] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:16:32,351] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0394	recall=0.1438	coverage=0.9613	popularity=7.0279
+[2019-03-11 22:16:37,241] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 15
+[2019-03-11 22:16:37,242] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:16:55,061] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:16:55,062] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:16:55,062] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:16:55,062] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:16:55,062] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:16:55,062] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:16:55,063] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:16:55,063] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:18:27,598] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0400	recall=0.1460	coverage=0.9641	popularity=7.1012
+[2019-03-11 22:18:32,547] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-11 22:18:32,548] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:18:50,232] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:18:50,232] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:18:50,232] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:18:50,232] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:18:50,232] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:18:50,233] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:18:50,233] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:18:50,233] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:20:27,703] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0417	recall=0.1524	coverage=0.9696	popularity=7.1680
+[2019-03-11 22:20:32,771] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-11 22:20:32,771] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:20:50,646] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:20:50,647] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:20:50,647] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:20:50,647] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:20:50,647] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:20:50,647] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:20:50,648] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:20:50,648] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:22:26,187] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0434	recall=0.1584	coverage=0.9696	popularity=7.2201
+[2019-03-11 22:22:31,061] [<ipython-input-13-bbffa93a0667>][line:22][func: __init__] - [INFO] : Similar item number = 40
+[2019-03-11 22:22:31,061] [<ipython-input-13-bbffa93a0667>][line:23][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-11 22:22:48,430] [<ipython-input-13-bbffa93a0667>][line:356][func: analyse] - [INFO] : train user number : 24300 ,test user number : 17248 , intersetion number : 14261 
+[2019-03-11 22:22:48,431] [<ipython-input-13-bbffa93a0667>][line:357][func: analyse] - [INFO] : train user ratio : 0.8905339538974604 ,test user ratio : 0.6320958698281233 
+[2019-03-11 22:22:48,431] [<ipython-input-13-bbffa93a0667>][line:358][func: analyse] - [INFO] : train user diff from test number : 10039 ,ratio : 0.5820384972170687
+[2019-03-11 22:22:48,431] [<ipython-input-13-bbffa93a0667>][line:359][func: analyse] - [INFO] : test user diff from train number : 2987 ,ratio : 0.12292181069958848
+[2019-03-11 22:22:48,431] [<ipython-input-13-bbffa93a0667>][line:361][func: analyse] - [INFO] : train item number : 362 ,test item number : 360 , intersetion number : 360 
+[2019-03-11 22:22:48,431] [<ipython-input-13-bbffa93a0667>][line:362][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.994475138121547 
+[2019-03-11 22:22:48,432] [<ipython-input-13-bbffa93a0667>][line:363][func: analyse] - [INFO] : train item diff from test number : 2 ,ratio : 0.005555555555555556
+[2019-03-11 22:22:48,432] [<ipython-input-13-bbffa93a0667>][line:364][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-11 22:24:21,877] [<ipython-input-13-bbffa93a0667>][line:482][func: analyse] - [INFO] : [训练集中有的] precision=0.0441	recall=0.1610	coverage=0.9669	popularity=7.2521
+[2019-03-12 11:20:05,438] [<ipython-input-21-d1bb8ebb2108>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 11:20:05,438] [<ipython-input-21-d1bb8ebb2108>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 11:22:01,177] [<ipython-input-25-fac05e7e7718>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 11:22:01,177] [<ipython-input-25-fac05e7e7718>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 11:22:38,530] [<ipython-input-28-a6ec425a48fa>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 11:22:38,530] [<ipython-input-28-a6ec425a48fa>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 11:23:40,508] [<ipython-input-31-d0f007d0fe9c>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 11:23:40,509] [<ipython-input-31-d0f007d0fe9c>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:01:07,368] [<ipython-input-42-b8fdcd220b83>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 13:01:07,368] [<ipython-input-42-b8fdcd220b83>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:03:29,024] [<ipython-input-45-f3b601b88eb8>][line:19][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 13:03:29,024] [<ipython-input-45-f3b601b88eb8>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:07:32,627] [<ipython-input-45-f3b601b88eb8>][line:19][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 13:07:32,627] [<ipython-input-45-f3b601b88eb8>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:17:55,877] [<ipython-input-50-ba5c4b52fbd3>][line:19][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 13:17:55,878] [<ipython-input-50-ba5c4b52fbd3>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:19:49,825] [<ipython-input-52-2d0eb969b277>][line:19][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 13:19:49,825] [<ipython-input-52-2d0eb969b277>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 13:22:34,191] [<ipython-input-54-34dcdf910b4a>][line:19][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 13:22:34,192] [<ipython-input-54-34dcdf910b4a>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 14:05:15,699] [<ipython-input-82-9a41cbfd7968>][line:19][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 14:05:15,700] [<ipython-input-82-9a41cbfd7968>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 15:51:46,958] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-12 15:52:11,879] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 15:52:11,879] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 15:52:28,881] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 15:52:28,882] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 15:52:28,882] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 15:52:28,882] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 15:52:28,882] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 15:52:28,882] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 15:52:28,883] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 15:52:28,883] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 15:53:58,571] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0484	recall=0.1784	coverage=0.9558	popularity=6.0441
+[2019-03-12 15:55:26,352] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 15:55:26,352] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 15:55:43,824] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 15:55:43,824] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 15:55:43,824] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 15:55:43,825] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 15:55:43,825] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 15:55:43,825] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 15:55:43,825] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 15:55:43,825] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 15:56:10,535] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 15:56:10,535] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 15:56:27,423] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 15:56:27,424] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 15:56:27,424] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 15:56:27,424] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 15:56:27,425] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 15:56:27,425] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 15:56:27,425] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 15:56:27,425] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 15:57:58,346] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0484	recall=0.1784	coverage=0.9558	popularity=6.0441
+[2019-03-12 15:58:03,655] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 15:58:03,655] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 15:58:20,481] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 15:58:20,481] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 15:58:20,481] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 15:58:20,481] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 15:58:20,482] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 15:58:20,482] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 15:58:20,482] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 15:58:20,482] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 15:59:53,393] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0476	recall=0.1755	coverage=0.9309	popularity=6.1479
+[2019-03-12 15:59:58,560] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 15:59:58,561] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:00:15,331] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:00:15,331] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:00:15,332] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:00:15,332] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:00:15,332] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:00:15,333] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:00:15,333] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:00:15,333] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:01:51,909] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0432	recall=0.1592	coverage=0.8950	popularity=6.2383
+[2019-03-12 16:01:56,987] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 5
+[2019-03-12 16:01:56,988] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:02:13,713] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:02:13,713] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:02:13,714] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:02:13,714] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:02:13,714] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:02:13,714] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:02:13,715] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:02:13,715] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:03:46,955] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0213	recall=0.0785	coverage=0.8039	popularity=6.5857
+[2019-03-12 16:03:52,009] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 16:03:52,009] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:04:08,772] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:04:08,772] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:04:08,772] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:04:08,773] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:04:08,773] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:04:08,773] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:04:08,773] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:04:08,774] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:05:41,251] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0527	recall=0.1944	coverage=0.9807	popularity=7.1006
+[2019-03-12 16:05:46,293] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 16:05:46,293] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:06:03,142] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:06:03,143] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:06:03,143] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:06:03,144] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:06:03,144] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:06:03,144] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:06:03,144] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:06:03,145] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:07:35,100] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0509	recall=0.1877	coverage=0.9779	popularity=7.1690
+[2019-03-12 16:07:40,291] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 16:07:40,292] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:07:57,537] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:07:57,537] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:07:57,538] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:07:57,538] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:07:57,538] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:07:57,538] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:07:57,539] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:07:57,539] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:09:34,140] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0462	recall=0.1704	coverage=0.9558	popularity=7.2389
+[2019-03-12 16:09:39,567] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 10
+[2019-03-12 16:09:39,567] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:09:58,616] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:09:58,616] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:09:58,616] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:09:58,617] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:09:58,617] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:09:58,617] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:09:58,618] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:09:58,618] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:11:28,144] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0260	recall=0.0956	coverage=0.8867	popularity=7.4217
+[2019-03-12 16:11:33,388] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 15
+[2019-03-12 16:11:33,389] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:11:49,882] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:11:49,882] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:11:49,882] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:11:49,883] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:11:49,883] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:11:49,883] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:11:49,883] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:11:49,883] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:13:20,329] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0527	recall=0.1941	coverage=0.9862	popularity=7.1991
+[2019-03-12 16:13:25,752] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 15
+[2019-03-12 16:13:25,753] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:13:42,718] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:13:42,720] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:13:42,720] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:13:42,720] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:13:42,721] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:13:42,721] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:13:42,721] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:13:42,721] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:15:17,170] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0516	recall=0.1903	coverage=0.9807	popularity=7.2812
+[2019-03-12 16:15:22,218] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 15
+[2019-03-12 16:15:22,218] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:15:38,918] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:15:38,918] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:15:38,919] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:15:38,919] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:15:38,919] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:15:38,919] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:15:38,920] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:15:38,920] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:17:09,475] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0474	recall=0.1745	coverage=0.9586	popularity=7.3293
+[2019-03-12 16:17:14,619] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 15
+[2019-03-12 16:17:14,619] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:17:31,286] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:17:31,287] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:17:31,287] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:17:31,287] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:17:31,287] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:17:31,288] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:17:31,288] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:17:31,289] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:19:02,858] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0264	recall=0.0975	coverage=0.8978	popularity=7.4136
+[2019-03-12 16:19:07,792] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 16:19:07,793] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:19:24,050] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:19:24,050] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:19:24,051] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:19:24,051] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:19:24,051] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:19:24,051] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:19:24,051] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:19:24,052] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:20:56,170] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0530	recall=0.1955	coverage=0.9917	popularity=7.2599
+[2019-03-12 16:21:01,226] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 16:21:01,226] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:21:17,909] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:21:17,909] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:21:17,910] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:21:17,910] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:21:17,910] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:21:17,910] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:21:17,910] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:21:17,911] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:22:49,675] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0520	recall=0.1915	coverage=0.9834	popularity=7.3348
+[2019-03-12 16:22:54,753] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 16:22:54,753] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:23:11,572] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:23:11,572] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:23:11,573] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:24:40,999] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0477	recall=0.1756	coverage=0.9613	popularity=7.3904
+[2019-03-12 16:24:46,135] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 16:24:46,135] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:25:03,150] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:25:03,151] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:25:03,151] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:25:03,151] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:25:03,151] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:25:03,152] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:25:03,152] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:25:03,152] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:26:34,534] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0268	recall=0.0988	coverage=0.8978	popularity=7.4034
+[2019-03-12 16:26:39,343] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 16:26:39,344] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:26:56,017] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:26:56,017] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:26:56,017] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:26:56,018] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:26:56,018] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:26:56,018] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:26:56,018] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:26:56,018] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:28:28,704] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0528	recall=0.1947	coverage=0.9972	popularity=7.3353
+[2019-03-12 16:28:33,944] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 16:28:33,944] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:28:50,660] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:28:50,660] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:28:50,661] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:28:50,661] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:28:50,661] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:28:50,661] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:28:50,661] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:28:50,662] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:30:22,427] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0518	recall=0.1910	coverage=0.9862	popularity=7.3990
+[2019-03-12 16:30:27,359] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 16:30:27,360] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:30:44,085] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:30:44,086] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:30:44,086] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:30:44,086] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:30:44,086] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:30:44,087] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:30:44,087] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:30:44,087] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:32:19,946] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0475	recall=0.1752	coverage=0.9613	popularity=7.4477
+[2019-03-12 16:32:24,926] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 30
+[2019-03-12 16:32:24,927] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:32:41,333] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:32:41,334] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:32:41,334] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:32:41,334] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:32:41,334] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:32:41,334] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:32:41,335] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:32:41,335] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:34:11,663] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0272	recall=0.1003	coverage=0.8867	popularity=7.4114
+[2019-03-12 16:34:16,923] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 40
+[2019-03-12 16:34:16,923] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:34:33,487] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:34:33,487] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:34:33,487] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:34:33,488] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:34:33,488] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:34:33,488] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:34:33,489] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:34:33,489] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:36:05,118] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0529	recall=0.1950	coverage=0.9972	popularity=7.3646
+[2019-03-12 16:36:10,408] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 40
+[2019-03-12 16:36:10,408] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:36:27,015] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:36:27,015] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:36:27,015] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:36:27,015] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:36:27,016] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:36:27,016] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:36:27,016] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:36:27,016] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:37:56,719] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0518	recall=0.1909	coverage=0.9862	popularity=7.4290
+[2019-03-12 16:38:01,922] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 40
+[2019-03-12 16:38:01,922] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:38:18,471] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:38:18,472] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:38:18,472] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:38:18,472] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:38:18,473] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:38:18,473] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:38:18,473] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:38:18,473] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:39:49,760] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0472	recall=0.1738	coverage=0.9613	popularity=7.4688
+[2019-03-12 16:39:54,722] [<ipython-input-1-0a659d8ce2e6>][line:36][func: __init__] - [INFO] : Similar item number = 40
+[2019-03-12 16:39:54,723] [<ipython-input-1-0a659d8ce2e6>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 16:40:11,705] [<ipython-input-1-0a659d8ce2e6>][line:400][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-12 16:40:11,707] [<ipython-input-1-0a659d8ce2e6>][line:401][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-12 16:40:11,707] [<ipython-input-1-0a659d8ce2e6>][line:402][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-12 16:40:11,707] [<ipython-input-1-0a659d8ce2e6>][line:403][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-12 16:40:11,707] [<ipython-input-1-0a659d8ce2e6>][line:405][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-12 16:40:11,707] [<ipython-input-1-0a659d8ce2e6>][line:406][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-12 16:40:11,708] [<ipython-input-1-0a659d8ce2e6>][line:407][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-12 16:40:11,708] [<ipython-input-1-0a659d8ce2e6>][line:408][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-12 16:41:41,971] [<ipython-input-1-0a659d8ce2e6>][line:524][func: analyse] - [INFO] : [训练集中有的] precision=0.0274	recall=0.1011	coverage=0.8867	popularity=7.4280
+[2019-03-12 18:16:42,827] [<ipython-input-121-67ac7a5b0cf2>][line:19][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 18:16:42,828] [<ipython-input-121-67ac7a5b0cf2>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 18:27:54,905] [<ipython-input-7-b545214ab876>][line:19][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 18:27:54,906] [<ipython-input-7-b545214ab876>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-12 18:29:29,166] [<ipython-input-9-f90d30056fa3>][line:19][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-12 18:29:29,166] [<ipython-input-9-f90d30056fa3>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-13 16:21:27,663] [common.py][line:27][func: <module>] - [WARNING] : logger is work
+[2019-03-13 16:22:35,439] [<ipython-input-1-220c4e0208d7>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-13 16:22:35,440] [<ipython-input-1-220c4e0208d7>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-13 17:00:28,737] [<ipython-input-1-220c4e0208d7>][line:36][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-13 17:00:28,738] [<ipython-input-1-220c4e0208d7>][line:37][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-13 17:30:48,741] [<ipython-input-24-50bb823b471a>][line:19][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-13 17:30:48,741] [<ipython-input-24-50bb823b471a>][line:20][func: __init__] - [INFO] : Recommended item number = 10
+[2019-03-13 17:31:44,520] [<ipython-input-24-50bb823b471a>][line:388][func: analyse] - [INFO] : train user number : 24357 ,test user number : 17319 , intersetion number : 14389 
+[2019-03-13 17:31:44,520] [<ipython-input-24-50bb823b471a>][line:389][func: analyse] - [INFO] : train user ratio : 0.8926228607028989 ,test user ratio : 0.6346978414629677 
+[2019-03-13 17:31:44,520] [<ipython-input-24-50bb823b471a>][line:390][func: analyse] - [INFO] : train user diff from test number : 9968 ,ratio : 0.5755528610196894
+[2019-03-13 17:31:44,521] [<ipython-input-24-50bb823b471a>][line:391][func: analyse] - [INFO] : test user diff from train number : 2930 ,ratio : 0.12029396066839101
+[2019-03-13 17:31:44,525] [<ipython-input-24-50bb823b471a>][line:393][func: analyse] - [INFO] : train item number : 362 ,test item number : 358 , intersetion number : 358 
+[2019-03-13 17:31:44,525] [<ipython-input-24-50bb823b471a>][line:394][func: analyse] - [INFO] : train item ratio : 1.0 ,test item ratio : 0.988950276243094 
+[2019-03-13 17:31:44,525] [<ipython-input-24-50bb823b471a>][line:395][func: analyse] - [INFO] : train item diff from test number : 4 ,ratio : 0.0111731843575419
+[2019-03-13 17:31:44,525] [<ipython-input-24-50bb823b471a>][line:396][func: analyse] - [INFO] : test item diff from train number : 0 ,ratio : 0.0
+[2019-03-13 17:33:11,784] [<ipython-input-24-50bb823b471a>][line:512][func: analyse] - [INFO] : [训练集中有的] precision=0.0296	recall=0.1091	coverage=0.7320	popularity=7.1044
+[2019-03-13 18:38:54,741] [<ipython-input-24-50bb823b471a>][line:19][func: __init__] - [INFO] : Similar item number = 20
+[2019-03-13 18:38:54,741] [<ipython-input-24-50bb823b471a>][line:20][func: __init__] - [INFO] : Recommended item number = 10
